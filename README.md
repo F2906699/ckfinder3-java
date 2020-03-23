@@ -1,4 +1,4 @@
-# CKFinder 3 for Java !!  licenseName  and licenseKey is OK!
+# CKFinder 3 for Java !!     licenseName and  licenseKey  are verified successful！
 
 ## Run the demo application
 
