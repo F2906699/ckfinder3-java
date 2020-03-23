@@ -1,4 +1,4 @@
-# CKFinder 3 for Java   licenseName  and licenseKey is OK!
+# CKFinder 3 for Java !!  licenseName  and licenseKey is OK!
 
 This repository contains ready-to-use code samples created for the CKFinder Java connector.
 
